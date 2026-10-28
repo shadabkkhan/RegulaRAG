@@ -21,3 +21,4 @@ dist/
 !.env.example
 data/pdfs/
 data/chroma/
+.pytest_cache/
