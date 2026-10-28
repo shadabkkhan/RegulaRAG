@@ -1,0 +1,23 @@
+﻿# IDE files
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Java / Maven
+target/
+
+# React / Node
+node_modules/
+dist/
+
+# Secrets and local data
+.env.*
+!.env.example
+data/pdfs/
+data/chroma/
