@@ -21,10 +21,9 @@ RegulaRAG is a Retrieval Augmented Generation (RAG) application designed to answ
 
 ## Project Structure
 
-- Backend/ - Spring Boot API
-- 
-rag-service/ - Python RAG service
-- frontend/ - React application
+- backend/ - Spring Boot API
+- rag-service/ - Python RAG service
+- frontend/ - React application
 - eval/ - Evaluation scripts and datasets
 - data/ - Local regulatory document data
 - docs/ - Project documentation
