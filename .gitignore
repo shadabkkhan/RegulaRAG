@@ -22,3 +22,4 @@ dist/
 data/pdfs/
 data/chroma/
 .pytest_cache/
+FETCH_HEAD
