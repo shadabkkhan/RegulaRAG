@@ -1,6 +1,6 @@
 ﻿# RegulaRAG
 
-RegulaRAG is a Retrieval-Augmented Generation (RAG) application designed to answer questions about Indian financial regulations using source-grounded responses and citations.
+RegulaRAG is a Retrieval Augmented Generation (RAG) application designed to answer questions about Indian financial regulations using source-grounded responses and citations.
 
 ## Planned Architecture
 
@@ -21,9 +21,9 @@ RegulaRAG is a Retrieval-Augmented Generation (RAG) application designed to answ
 
 ## Project Structure
 
-- ackend/ - Spring Boot API
-- ag-service/ - Python RAG service
-- rontend/ - React application
+- backend/ - Spring Boot API
+- rag-service/ - Python RAG service
+- frontend/ - React application
 - eval/ - Evaluation scripts and datasets
 - data/ - Local regulatory document data
 - docs/ - Project documentation
